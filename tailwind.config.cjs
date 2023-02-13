@@ -24,7 +24,7 @@ module.exports = {
         montserrat: ["Montserrat", "sans-serif"],
       },
       content: {
-        pulsetext: "url('./assets/images/PulseText.png')",
+        pulsebackground: "url('./assets/images/PulseBackground.png')",
         abstractwaves: "url('./assets/images/AbstractWaves.png')",
         sparkles: "url('./assets/images/Sparkles.png')",
         circles: "url('./assets/images/Circles.png')",

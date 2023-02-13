@@ -35,7 +35,7 @@ const Home = ({ setSelectedPage }: Props) => {
             }}
           >
             <div className="relative">
-              <div className="before:absolute before:-top-20 before:-left-20 before:z-[-1] md:before:content-evolvetext">
+              <div className="before:absolute before:-top-20 before:-left-20 before:z-[-1] md:before:content-pulsebackground">
                 <img alt="PULSE Eat. Sleep. Gym. Repeat." src={PulseText} />
               </div>
             </div>

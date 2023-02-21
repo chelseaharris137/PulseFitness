@@ -8,6 +8,8 @@ type Props = {
 };
 
 const Footer = ({ setSelectedPage }: Props) => {
+  const year = new Date().getFullYear();
+
   return (
     <footer className="bg-primary-300 py-16">
       <div className="justify-content mx-auto w-5/6 gap-16 md:flex">
@@ -16,7 +18,7 @@ const Footer = ({ setSelectedPage }: Props) => {
           <p className="my-5">
           Pulse Fitness is committed to helping members build sustainable healthy habits and achieve long-term success. Join us at Pulse Fitness and discover a new level of fitness, health, and vitality.
           </p>
-          <p>© Pulse Fitness All Rights Reserved.</p>
+          <p>© {year} Pulse Fitness All Rights Reserved.</p>
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Links</h4>

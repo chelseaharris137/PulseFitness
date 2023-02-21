@@ -1,9 +1,13 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
+</div>
 
 
 <!-- PROJECT LOGO -->
@@ -22,7 +26,7 @@
 
 [![Product Name Screen Shot][product-screenshot]]()
 
-Pulse Fitness is a Typescript fitness application. Pulse is committed to helping members build sustainable healthy habits and achieve long-term success.
+Fitness is a Typescript fitness application. Pulse is committed to helping members build sustainable healthy habits and achieve long-term success.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -43,7 +47,7 @@ Pulse Fitness is a Typescript fitness application. Pulse is committed to helping
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/chelseaharris137/Pulse.git
+   git clone https://github.com/chelseaharris137/PulseFitness.git
    ```
 3. Install NPM packages
    ```sh
@@ -95,12 +99,12 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/chelseaharris137/Pulse.svg?style=for-the-badge
-[contributors-url]: https://github.com/chelseaharris137/Pulse/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/chelseaharris137/Pulse.svg?style=for-the-badge
-[issues-url]: https://github.com/chelseaharris137/Pulse/issues
-[license-shield]: https://img.shields.io/github/license/chelseaharris137/Pulse.svg?style=for-the-badge
-[license-url]: https://github.com/chelseaharris137/Pulse/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/chelseaharris137/PulseFitness.svg?style=for-the-badge
+[contributors-url]: https://github.com/chelseaharris137/PulseFitness/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/chelseaharris137/PulseFitness.svg?style=for-the-badge
+[issues-url]: https://github.com/chelseaharris137/PulseFitness/issues
+[license-shield]: https://img.shields.io/github/license/chelseaharris137/PulseFitness.svg?style=for-the-badge
+[license-url]: https://github.com/chelseaharris137/PulseFitness/blob/main/LICENSE
 [product-screenshot]: public/pulse-screenshot.png
 [Framer]: https://img.shields.io/badge/Framer&nbsp;Motion-ff579a?style=for-the-badge&logo=framermotion&logoColor=white
 [Framer-url]: https://www.framer.com/motion/
